@@ -1,18 +1,18 @@
 ## Experience
 
-### Daily Iowan
+### [Daily Iowan](https://dailyiowan.com/)
 
 - Photojournalist / Filmmaker
   - October 2022 - Current
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b2dlV8lVQCI" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Iowa PBS
+### [Iowa PBS](https://www.iowapbs.org/)
 
 - Production Intern
   - May - August 2022
 
-### University of Iowa
+### [University of Iowa](https://catalog.registrar.uiowa.edu/liberal-arts-sciences/cinematic-arts/cinema-minor/)
 
 - Classwork
   - August 2021 - May 2023
