@@ -1,4 +1,3 @@
-# Alex Snyder
 
 ## [Daily Iowan](https://dailyiowan.com/)
 
