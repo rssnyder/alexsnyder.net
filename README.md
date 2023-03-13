@@ -1,10 +1,8 @@
-# Alex Snyder
-
-## Experiance
+## Experience
 
 ### Daily Iowan
 
-- Photojournolist / Filmmaker
+- Photojournalist / Filmmaker
   - October 2022 - Current
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b2dlV8lVQCI" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -22,12 +20,12 @@
 ### Software
 
 - Adobe Photoshop and Lightroom
-- Adobe Premier, After Effectrs, and Avid
+- Adobe Premier, After Effects, and Avid
 
 ## Education
 
 - University of Iowa
-  - Batcholers of Art: Cinema
+  - Bachelors of Art: Cinema
 
 - Des Moines Area Community College
   - Associates of Liberal Arts
