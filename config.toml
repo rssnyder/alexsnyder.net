@@ -1,0 +1,4 @@
+baseURL = 'https://alexsnyder.net/'
+languageCode = 'en-us'
+title = 'Alex Snyder'
+theme = 'ananke'
